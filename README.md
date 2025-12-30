@@ -1,16 +1,16 @@
-#TaskGlitch – SDE Assignment
+# TaskGlitch – SDE Assignment
 
 TaskGlitch is a task management web application built to demonstrate real-world frontend development skills, debugging, and production-ready deployment using React and TypeScript.
 
-#🚀 Live Demo
+# 🚀 Live Demo
 
 👉 https://<your-vercel-deployment-link>
 
-#📂 GitHub Repository
+# 📂 GitHub Repository
 
 👉 https://github.com/roshan194/task-glitch
 
-#🛠 Tech Stack
+# 🛠 Tech Stack
 
 React 18
 
@@ -24,7 +24,7 @@ Context API
 
 Vercel (Deployment)
 
-#✨ Key Features
+# ✨ Key Features
 
 Add, edit, delete, and undo-delete tasks
 
@@ -38,7 +38,7 @@ CSV export functionality
 
 Fully responsive UI
 
-#🐞 Bugs Addressed
+# 🐞 Bugs Addressed
 
 Prevented duplicate data loading on app start
 
@@ -50,11 +50,11 @@ Prevented multiple dialogs from opening together
 
 Handled invalid ROI values safely
 
-📦 Setup
+# 📦 Setup
 npm install
 npm run dev
 
-👤 Author
+# 👤 Author
 
 Roshan Kumar
 Frontend Developer
